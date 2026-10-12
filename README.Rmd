@@ -27,12 +27,40 @@ source("code/niche_extents_population_at_risk.R")
 # does the neapolitan map and supporting table
 ```
 
-(Probably don't run this script but do use it as a guide to navigate the repo)
+(This script is not intended to be run unsupervised but can be used as a guide to navigate the repo.)
 
 An older iteration of the model (prior to the incorporation of sentinel chicken data and diagnostic uncertainty) is included in `model_2022`.
 
 #### Acknowledgements
 
-Populate when they're in the manuscript.
+The authors thank the many local governments and personnel who support JEV-based surveillance activities in Australia. We would also like to acknowledge the following individuals, teams and departments who provided data and/or assistance in its interpretation:
+
+
+- New South Wales Health and Health Pathology New South Wales (through Department of Medical Entomology)
+- New South Wales Department of Primary Industries and Regional Development Virology Laboratory and the Animal Biosecurity Unit at the Elizabeth Macarthur Agriculture Institute (EMAI)
+- Andrew Bengsen from the Vertebrate Pest Research Unit, New South Wales Department of Primary Industries and Regional Development
+- Northern Territory Department of Agriculture and Fisheries,
+- Northern Territory Health Medical Entomology team,
+- Northern Territory Centre for Disease Control, including Dr Vicki Krause, % from 
+- Queensland Public Health Units, 
+- Population Health Division of Queensland Department of Health, 
+- Public and Environmental Health Reference Laboratories (PEHRL), Pathology Queensland, 
+- Queensland Department of Primary Industries, including Dr Joanne Mollinger, Dr Selina M.\ Ossedryver, and the Biosecurity Sciences Laboratory, 
+- Communicable Diseases Control Branch, South Australia Health 
+- Department of Primary Industries and Regions South Australia
+- Tasmanian Department of Health, 
+- Julia Sarandopoulos, Dr Leanna Dries, Dr Sarah Hall, and Leah Starick from Agriculture Victoria, Department of Energy, Environment and Climate Action  
+- Community and Public Health Division, Victorian Department of Health, in particular Dr Rebecca Feldman and A/Prof. Jim Black
+- Western Australia Health Medical Entomology Team, 
+- Western Australia Department of Primary Industries and Regional Development, Animal Biosecurity \& Welfare, 
+-  Commonwealth Scientific and Industrial Research Organisation (CSIRO) Australian Centre for Disease Preparedness (ACDP)
+- Northern Australia Quarantine Strategy (NAQS)
+- Dr Rachel Iglesias from the Office of the Chief Veterinary Officer, Department of Agriculture, Fisheries and Forestry
+
+
+Thanks also to Associate Professor Simon Firestone, Professor James McCaw, Professor Bart Currie, and members of the Australian National Arbovirus and Malaria Advisory Committee (NAMAC) and the Communicable Diseases Network of Australia (CDNA) for expert advice and feedback during development of the modelling framework. Thanks to Dr Domenic Germano for assistance in obtaining and interpreting incoming data.
+
+This work was funded by the Australian Commonwealth Government Department of Health and Aged Care, through a research contract awarded to FMS and NG. The funder played no role in study design, analysis, preparation of the manuscript or the decision to publish.
+
 
 
